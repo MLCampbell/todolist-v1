@@ -1,2 +1,2 @@
 # todolist-v1
-A simple to do list using embedded JS templates
+A to do list using Express JS and Embedded JavaScript Templates.
